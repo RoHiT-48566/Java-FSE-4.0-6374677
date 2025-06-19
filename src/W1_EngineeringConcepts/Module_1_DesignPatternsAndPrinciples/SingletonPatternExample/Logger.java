@@ -1,4 +1,4 @@
-package EngineeringConcepts.Module_1_DesignPatternsAndPrinciples.SingletonPatternExample;
+package W1_EngineeringConcepts.Module_1_DesignPatternsAndPrinciples.SingletonPatternExample;
 
 public class Logger {
     private static Logger instance;

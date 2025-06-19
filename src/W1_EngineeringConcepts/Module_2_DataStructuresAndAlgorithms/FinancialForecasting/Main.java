@@ -1,4 +1,4 @@
-package EngineeringConcepts.Module_2_DataStructuresAndAlgorithms.FinancialForecasting;
+package W1_EngineeringConcepts.Module_2_DataStructuresAndAlgorithms.FinancialForecasting;
 
 import java.util.Scanner;
 

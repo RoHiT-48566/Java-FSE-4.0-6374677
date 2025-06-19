@@ -1,4 +1,4 @@
-package EngineeringConcepts.Module_2_DataStructuresAndAlgorithms.ECommercePlatformSearchFunction;
+package W1_EngineeringConcepts.Module_2_DataStructuresAndAlgorithms.ECommercePlatformSearchFunction;
 
 /*
 Big O Notation :

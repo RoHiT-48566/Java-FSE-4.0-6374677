@@ -1,7 +1,7 @@
-package EngineeringConcepts.Module_1_DesignPatternsAndPrinciples.FactoryMethodPatternExample;
+package W1_EngineeringConcepts.Module_1_DesignPatternsAndPrinciples.FactoryMethodPatternExample;
 
-import EngineeringConcepts.Module_1_DesignPatternsAndPrinciples.FactoryMethodPatternExample.factory.*;
-import EngineeringConcepts.Module_1_DesignPatternsAndPrinciples.FactoryMethodPatternExample.document.*;
+import W1_EngineeringConcepts.Module_1_DesignPatternsAndPrinciples.FactoryMethodPatternExample.factory.*;
+import W1_EngineeringConcepts.Module_1_DesignPatternsAndPrinciples.FactoryMethodPatternExample.document.*;
 
 public class Main {
     public static void main(String[] args) {
