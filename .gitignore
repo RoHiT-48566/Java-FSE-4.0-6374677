@@ -1,7 +1,6 @@
-.idea
-Java-FSE-4.0.iml
-
 ### IntelliJ IDEA ###
+.idea/
+*.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
